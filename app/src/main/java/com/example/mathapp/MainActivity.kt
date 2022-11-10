@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var answerView: EditText
     lateinit var roundWinCounter: TextView
     lateinit var roundRightAnswers: TextView
-    
+
     var firstNumber = 0
     var secondNumber = 0
     var thirdNumber = 0
